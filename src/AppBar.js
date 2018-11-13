@@ -59,7 +59,7 @@ function ButtonAppBar(props) {
                 <Button color="inherit" href='#work'>Work</Button>
                 <Button color="inherit" href='#about'>About Me</Button>
                 <Button color="inherit" href='#contact'>Contact Me</Button>
-                <Button color="inherit" href='https://www.linkedin.com/feed/?trk=onboarding-landing'>Linkedin</Button>
+                <Button color="inherit" href='https://www.linkedin.com/in/RyleyListon'>Linkedin</Button>
                 </Toolbar>
             </AppBar>
             <ParallaxProvider>

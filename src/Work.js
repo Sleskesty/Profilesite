@@ -46,7 +46,7 @@ function SimpleCard(props) {
         Mock Store Application
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
-          Technology used: Javascript, Express, Vue, Material, Mongo
+          Technology used: Javascript, Express, Vue, Vuex, Material, Mongo
         </Typography>
         <Typography component="p">
           Store application using Vue to create a store experiance and to explore Vue within the scope of two weeks.
