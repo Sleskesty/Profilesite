@@ -46,7 +46,8 @@ function SimpleCard(props) {
         Mock Store Application
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
-          Technology used: Javascript, Express, Vue, Vuex, Material, Mongo
+          Technology used: Javascript, Express, Vue, Vuex,Smmtiii
+          ii Material, Mongo
         </Typography>
         <Typography component="p">
           Store application using Vue to create a store experiance and to explore Vue within the scope of two weeks.
@@ -81,7 +82,7 @@ function SimpleCard(props) {
          </Typography>
        </CardContent>
        <CardActions>
-         <Button size="small" href='https://dazzling-shaw-4cbc19.netlify.com/'>Learn More</Button>
+         <Button size="small" href='https://dreamy-beaver-5945ba.netlify.com/'>Learn More</Button>
        </CardActions>
      </Card>
      </Parallax>
