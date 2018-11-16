@@ -54,7 +54,7 @@ function SimpleCard(props) {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small" href='https://github.com/Sleskesty/Vueapp'>Learn More</Button>
+        <Button size="small" href='https://quizzical-hamilton-5ddaa8.netlify.com/#/'>Learn More</Button>
       </CardActions>
     </Card>
     </Parallax>
