@@ -39,7 +39,7 @@ function SimpleCard(props) {
     <Card className={classes.card}>
     <CardMedia
           className={classes.media}
-          image='https://i.imgur.com/4QaiZXd.png'
+          image='https://lh3.googleusercontent.com/SOU5AWqzwCq0tCseysXuU_ugkcTIXIilXRR9foPY07ReW0ikV3wr1_gUZYenE-l20_Ya_4-jYp5j8oUGXRwAUQMNulmouOOJJcmRDDrxEXtI8DquPDI5zJ1n0Hmra0K1gSE1plYi4w=w2400'
           title="Contemplative Reptile"/>
       <CardContent>
         <Typography variant="h6" component="h2">
